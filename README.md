@@ -12,5 +12,5 @@ Example:
 `StrSurr "[]" "Hello [Kvc], how are you?"`
 
 
-
+Article-
 www.batch-man.comhttps://batch-man.com/string-functions-by-kvc/
