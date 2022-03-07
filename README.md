@@ -1,7 +1,7 @@
 
 # StrSurr - by Kvc
 ## Description
-This program can Extract the string surrounded by given characters.
+This program extracts the string surrounded by given characters.
 
 Author: Kvc
 
@@ -12,5 +12,5 @@ Example:
 `StrSurr "[]" "Hello [Kvc], how are you?"`
 
 
-Article-
-www.batch-man.comhttps://batch-man.com/string-functions-by-kvc/
+Article
+https://batch-man.com/string-functions-by-kvc/
