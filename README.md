@@ -13,4 +13,4 @@ Example:
 
 
 
-www.batch-man.com
+www.batch-man.comhttps://batch-man.com/string-functions-by-kvc/
